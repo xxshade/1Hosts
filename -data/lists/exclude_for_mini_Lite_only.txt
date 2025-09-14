@@ -1,0 +1,89 @@
+
+# https://github.com/badmojr/1Hosts/issues/2425
+uptain.de
+app.uptain.de
+
+# https://github.com/badmojr/1Hosts/issues/2303
+sentry-cdn.com
+s1.sentry-cdn.com
+# https://github.com/badmojr/1Hosts/issues/1976
+www.adsoftheworld.com
+image.adsoftheworld.com
+video.adsoftheworld.com
+
+# https://github.com/badmojr/1Hosts/issues/1960
+exchange4media.com
+www.exchange4media.com
+
+# https://github.com/badmojr/1Hosts/issues/1932
+rs.epoq.de
+arc.epoq.de
+# https://github.com/badmojr/1Hosts/issues/1727
+# https://github.com/badmojr/1Hosts/issues/1730
+# https://github.com/badmojr/1Hosts/issues/1729
+# https://github.com/badmojr/1Hosts/issues/1728
+# https://github.com/badmojr/1Hosts/issues/1723
+# https://github.com/badmojr/1Hosts/issues/1722
+# https://github.com/badmojr/1Hosts/issues/1685
+# https://github.com/badmojr/1Hosts/issues/1682
+# https://github.com/badmojr/1Hosts/issues/1680
+# https://github.com/badmojr/1Hosts/issues/1661
+# https://github.com/badmojr/1Hosts/issues/1659
+html-load.com
+css-load.com
+html-load.com
+css-load.com
+
+
+# https://github.com/badmojr/1Hosts/issues/851
+79423.analytics.edgekey.net
+
+# https://github.com/badmojr/1Hosts/issues/771
+a.klaviyo.com
+
+# https://github.com/badmojr/1Hosts/issues/785
+msg.ettoday.net
+
+# https://github.com/badmojr/1Hosts/issues/596
+api.miui.security.xiaomi.com
+api.sec.miui.com
+
+# https://github.com/badmojr/1Hosts/issues/604
+assets.adobedtm.com
+
+# Affects video playback @ https://video.repubblica.it/
+www.googletagmanager.com
+www-googletagmanager.l.google.com
+
+# https://github.com/badmojr/1Hosts/issues/502
+js.monitor.azure.com
+
+# https://github.com/badmojr/1Hosts/issues/421
+t.paypal.com
+
+# https://github.com/badmojr/1Hosts/issues/304
+self.events.data.microsoft.com
+
+# https://github.com/badmojr/1Hosts/issues/301
+mybbc-analytics.files.bbci.co.uk
+
+# https://github.com/badmojr/1Hosts/issues/312
+analytics.linkre.direct
+
+# https://github.com/badmojr/1Hosts/issues/341
+rec.quartic.pl
+
+# https://github.com/badmojr/1Hosts/issues/354
+snrcdn.net
+
+# https://github.com/badmojr/1Hosts/issues/359
+myao.adocean.pl
+ing.adocean.pl
+adocean.pl
+content.ingbank.pl
+
+# https://github.com/badmojr/1Hosts/issues/366
+www.extreme-ip-lookup.com
+
+# https://github.com/badmojr/1Hosts/issues/392
+data.mistat.intl.xiaomi.com

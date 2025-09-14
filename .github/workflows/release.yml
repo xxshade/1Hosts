@@ -1,0 +1,65 @@
+name: Release
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+    paths:
+     - 'Lite/**'
+     - 'Pro/**'
+     - 'Xtra/**'
+
+jobs:
+  create_release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone Repo
+        uses: "actions/checkout@v4"
+        with:
+          ref: ${{ github.head_ref }}
+
+      - name: Prep release
+        id: purge_urls
+        run: |
+          listFiles() { find "$1" -type f -print; }
+          base="https://cdn.jsdelivr.net/gh/${{ github.repository }}"
+          versions="master latest"
+          urls=""
+          rm -rf release tmp && mkdir -p release tmp
+          cp -rf Lite Pro Xtra tmp && cd tmp
+          while read -r file; do
+            clean_file=$(echo "$file" | sed 's:\./::g; s:/:_:g')
+            newname="1hosts-$clean_file"
+            clean_path=$(echo "$file" | sed 's:\./::g')
+            cp "$file" "../release/$newname"
+            for v in $versions; do
+              urls+="${base}@${v}/${clean_path},"
+            done
+          done < <(listFiles .)
+          cd .. && rm -rf tmp
+          echo "urls=${urls%,*}" >> $GITHUB_OUTPUT
+        shell: bash
+
+      - name: Purge jsDelivr Cache
+        uses: egad13/purge-jsdelivr-cache@v1.1.0
+        with:
+          url: ${{ steps.purge_urls.outputs.urls }}
+
+      - name: Publish Release
+        uses: "marvinpinto/action-automatic-releases@v1.2.1"
+        with:
+          repo_token: "${{ secrets.GITHUB_TOKEN }}"
+          automatic_release_tag: "latest"
+          prerelease: false
+          title: "Lists"
+          files: release/*
+
+      - name: Delete Older Releases
+        uses: dev-drprasad/delete-older-releases@v0.1.0
+        with:
+          keep_latest: 1
+          delete_tags: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

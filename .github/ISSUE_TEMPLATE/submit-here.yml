@@ -1,0 +1,82 @@
+name: Submit here
+description: Submit requests for domain additions or removals to our blocklists
+labels: []
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center">
+          <h2>Submit Form</h2>
+          <div align="center">
+          Get your issue resolved quickly!<br>
+          Open separate tickets for unrelated domains.
+          </div>
+        </div>
+
+  - type: checkboxes
+    id: acknowledgements
+    attributes:
+      label: "Confirmation"
+      description: |
+        Please confirm the following before submitting your issue:
+      options:
+        - label: I understand that issues lacking actionable details may be closed.
+          required: true
+        - label: I confirm that this request targets a specific, related set of domains to ensure focused evaluation based on factors such as potential false positives, user impact, and supporting evidence.
+          required: true
+        - label: I have the reading comprehension of a startled octopus and just click things at random.
+          required: false
+
+  - type: checkboxes
+    id: lists_in_use
+    attributes:
+      label: "🧹 Lists"
+      description: "Select the blocklist(s) this request applies to."
+      options:
+        - label: Lite
+        - label: Pro
+        - label: Xtra
+
+  - type: input
+    id: client
+    attributes:
+      label: "🛡️ Client"
+      description: "Specify the adblock client being used (e.g., NextDNS, Pi-hole, AdGuard Home)."
+      placeholder: "nextDNS"
+    validations:
+      required: true
+
+  - type: textarea
+    id: domains
+    attributes:
+      label: "🌐 Domains"
+      description: "Enter one domain per line (include subdomains if needed)"
+      placeholder: |
+        example.com
+        ads.example.org
+        tracker.example.net
+      render: yaml
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: "📝 Additional Details"
+      description: |
+        Explain why these domains should be added or removed.
+        Include evidence like screenshots, URLs, or logs.
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        <div align="center" style="margin-top:30px">
+          <hr style="width:10%;margin:10px auto;opacity:0.3">
+          <h2>Thank you for supporting 1Hosts.</h2>
+          <sub>It’s people like you who make these lists great! ❤️</sub>
+        </div>
+        
