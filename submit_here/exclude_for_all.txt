@@ -1,0 +1,21 @@
+
+# https://github.com/badmojr/1Hosts/issues/2774
+www.tongyi.com
+
+# https://github.com/badmojr/1Hosts/issues/2773
+pes22-game.cs.konami.net
+
+# https://github.com/badmojr/1Hosts/issues/2772
+luluvid.com
+luluvdoo.com
+zjet7.com
+www.televisionacademy.com
+
+# https://github.com/badmojr/1Hosts/issues/2771
+defence-industry.eu
+
+# https://github.com/badmojr/1Hosts/issues/2770
+nationalsecurityjournal.org
+
+# https://github.com/badmojr/1Hosts/issues/2766
+nixware.cc
