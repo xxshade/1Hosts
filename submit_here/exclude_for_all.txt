@@ -1,0 +1,21 @@
+
+# https://github.com/badmojr/1Hosts/issues/2782
+mgstatics.xyz
+
+# https://github.com/badmojr/1Hosts/issues/2781
+staropensource.de
+git.staropensource.de
+
+# https://github.com/badmojr/1Hosts/issues/2779
+twz.com
+www.twz.com
+
+# https://github.com/badmojr/1Hosts/issues/2778
+localsend.org
+
+# https://github.com/badmojr/1Hosts/issues/2776
+globh.com
+
+# https://github.com/badmojr/1Hosts/issues/2775
+version.ffmax.pencilorange.com
+version.ffmax.purplevioleto.com
