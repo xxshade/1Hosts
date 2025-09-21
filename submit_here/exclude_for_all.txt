@@ -1,0 +1,26 @@
+
+# https://github.com/badmojr/1Hosts/issues/2787
+kamori.goats.dev
+
+# https://github.com/badmojr/1Hosts/issues/2786
+www.ids-portal.com
+
+# https://github.com/badmojr/1Hosts/issues/2785
+idbroker.tk.ehealth-id.de
+idp.app.ti-dienste.de
+
+# https://github.com/badmojr/1Hosts/issues/2784
+foggycrest91.online
+stormcurve61.site
+raindust78.online
+sunhaze44.site
+hailglow59.site
+clearflare66.live
+frostwave30.xyz
+rainwhisper40.xyz
+mistcloud98.xyz
+lightbeam83.wiki
+dewpoint34.wiki
+breezeflash17.pro
+snowblink22.pro
+lightmist83.live
