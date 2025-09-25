@@ -1,4 +1,13 @@
 
+# https://github.com/badmojr/1Hosts/issues/2796
+guarda.dev
+guardan.io
+official-ledger.live
+en-ledgr.org
+install-ledger.live
+launcher.guarda.ltd
+en-ledger-install.com
+
 # https://github.com/badmojr/1Hosts/issues/2761
 rbillysimp.com
 remote.rbillysimp.com

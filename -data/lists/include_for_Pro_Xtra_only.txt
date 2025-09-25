@@ -1,4 +1,7 @@
 
+# https://github.com/badmojr/1Hosts/issues/2793
+sitecheck.opera.com
+
 # https://github.com/badmojr/1Hosts/issues/2744
 prod-uw2-telemetry-bucket.s3.us-west-2.amazonaws.com
 
