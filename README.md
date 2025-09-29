@@ -9,7 +9,7 @@
 
 <br>
 <p>
-   1Hosts offers 3 blocklist variants tailored to different user needs:<br>
+   1Hosts offers 2 blocklist variants tailored to different user needs:<br>
 </p>
 
 <h3 align="center"><id="Lite">🟢 <strong><ins>1Hosts (Lite)</ins></strong></h3>
@@ -89,82 +89,6 @@
 </table>
 <br>
 
-<h3 align="center"><id="Pro">🟡 <strong><ins>1Hosts (Pro)</ins></strong></h3>
-<i>Strict version - may introduce <a href="./-data/lists/antiAllow.lst">minor breaks</a>, privacy-focused (e.g, blocks <code>graph.facebook.com</code>).</i>
-<table align="center">
-<thead>
-<tr>
-<th>Client</th>
-<th>mirror 1</th>
-<th>mirror 2</th>
-<th>mirror 3</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>AdAway</td>
-<td><a href="https://badmojr.github.io/1Hosts/Pro/hosts.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.txt">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/hosts.txt">view</a></td>
-</tr>
-<tr>
-<td>Pi-hole / OpenSnitch</td>
-<td><a href="https://badmojr.github.io/1Hosts/Pro/domains.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.txt">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/domains.txt">view</a></td>
-</tr>
-<tr>
-<td>dnscrypt-proxy / personalDNSfilter / InviZible Pro</td>
-<td><a href="https://badmojr.github.io/1Hosts/Pro/domains.wildcards">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/domains.wildcards">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/domains.wildcards">dl</a></td>
-</tr>
-<tr>
-<td>uBlock Origin / AdGuardHome</td>
-<td><a href="https://badmojr.github.io/1Hosts/Pro/adblock.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/adblock.txt">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/adblock.txt">view</a></td>
-</tr>
-<tr>
-<td>DNSCloak</td>
-<td><a href="https://badmojr.github.io/1Hosts/Pro/wildcards.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/wildcards.txt">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/wildcards.txt">view</a></td>
-</tr>
-<tr>
-<td>dnsmasq</td>
-<td><a href="https://badmojr.github.io/1Hosts/Pro/dnsmasq.conf">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/dnsmasq.conf">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/dnsmasq.conf">view</a></td>
-</tr>
-<tr>
-<td>Knot / Bind9 / PowerDNS</td>
-<td><a href="https://badmojr.github.io/1Hosts/Pro/rpz.txt">view</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/rpz.txt">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/rpz.txt">view</a></td>
-</tr>
-<tr>
-<td>Unbound</td>
-<td><a href="https://badmojr.github.io/1Hosts/Pro/unbound.conf">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/unbound.conf">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/unbound.conf">view</a></td>
-</tr>
-<tr>
-<td>Windows</td>
-<td><a href="https://badmojr.github.io/1Hosts/Pro/hosts.win">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/hosts.win">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/hosts.win">dl</a></td>
-</tr>
-<tr>
-<td>Little Snitch</td>
-<td><a href="https://badmojr.github.io/1Hosts/Pro/snitch.rules">dl</a></td>
-<td><a href="https://raw.githubusercontent.com/badmojr/1Hosts/master/Pro/snitch.rules">view</a></td>
-<td><a href="https://cdn.jsdelivr.net/gh/badmojr/1Hosts@master/Pro/snitch.rules">dl</a></td>
-</tr>
-</tbody>
-</table>
-</details>
-<br>
 
 <h3 align="center"><id="Xtra">🔴 <strong><ins>1Hosts (Xtra)</ins> <sup>Beta</sup></strong></h3>
     <i>Aggressive version - maximum blocking against emerging privacy threats. May (occasionally) disrupt legit sites or services.
@@ -180,7 +104,7 @@
 
 > [!TIP]
 > Start with Lite.<br>
-> Upgrade to Pro/Xtra for enhanced blocking.
+> Upgrade to Xtra for enhanced blocking.
 >
 
 Add the appropriate URL to your adblock client's settings or use DNS options below.<br>
@@ -204,13 +128,6 @@ updates every 30 minutes; supports subdomain/wildcard & CNAME blocking; unlimite
 <td>2606:1a40::38 2606:1a40:1::38</td>
 <td><a href="https://freedns.controld.com/x-1hosts-lite">https://freedns.controld.com/x-1hosts-lite</a></td>
 <td>x-1hosts-lite.freedns.controld.com</td>
-</tr>
-<tr>
-<td>1Hosts (Pro)</td>
-<td>76.76.2.39 76.76.10.39</td>
-<td>2606:1a40::39 2606:1a40:1::39</td>
-<td><a href="https://freedns.controld.com/x-1hosts-pro">https://freedns.controld.com/x-1hosts-pro</a></td>
-<td>x-1hosts-pro.freedns.controld.com</td>
 </tr>
 </tbody>
 </table>
@@ -243,11 +160,6 @@ updates infrequently; supports subdomain/wildcard & CNAME blocking; unlimited qu
 <td>1Hosts (Lite)</td>
 <td><a href="https://max.rethinkdns.com/1:AAQCAA==">https://max.rethinkdns.com/1:AAQCAA==</a></td>
 <td>1-aacaeaa.max.rethinkdns.com</td>
-</tr>
-<tr>
-<td>1Hosts (Pro)</td>
-<td><a href="https://max.rethinkdns.com/1:AAIAgA==">https://max.rethinkdns.com/1:AAIAgA==</a></td>
-<td>1-aababaa.max.rethinkdns.com</td>
 </tr>
 </tbody>
 </table>
