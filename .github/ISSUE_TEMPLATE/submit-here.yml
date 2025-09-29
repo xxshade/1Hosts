@@ -36,7 +36,6 @@ body:
       description: "Select the blocklist(s) this request applies to."
       options:
         - label: Lite
-        - label: Pro
         - label: Xtra
 
   - type: input
