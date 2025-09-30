@@ -1,4 +1,24 @@
 
+# https://github.com/badmojr/1Hosts/issues/2816
+hosted.weblate.org
+
+# https://github.com/badmojr/1Hosts/issues/2815
+rainflare53.pro
+sunmelt27.xyz
+cloudspark91.live
+stormgleam42.xyz
+frostveil88.live
+dewshine74.xyz
+
+# https://github.com/badmojr/1Hosts/issues/2812
+animecix.tv
+
+# https://github.com/badmojr/1Hosts/issues/2811
+kenmei.co
+
+# https://github.com/badmojr/1Hosts/issues/2801
+omarchy.org
+
 # https://github.com/badmojr/1Hosts/issues/2798
 cloreautomotive.com
 

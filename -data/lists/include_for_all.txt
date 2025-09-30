@@ -1,4 +1,9 @@
 
+# https://github.com/badmojr/1Hosts/issues/2814
+v2-app-lido-finance.cc
+app.v2lido.bond
+app-lido-finance-v2.com
+
 # https://github.com/badmojr/1Hosts/issues/2796
 guarda.dev
 guardan.io
