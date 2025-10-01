@@ -1,4 +1,25 @@
 
+# https://github.com/badmojr/1Hosts/issues/2820
+app.storypark.com
+
+# https://github.com/badmojr/1Hosts/issues/2819
+deco.proteste.pt
+sicnoticias.pt
+gateway.filen-1.net
+gateway.filen-2.net
+gateway.filen-3.net
+gateway.filen-4.net
+gateway.filen-5.net
+sporttv.pt
+
+# https://github.com/badmojr/1Hosts/issues/2818
+opten.hu
+www.opten.hu
+webshop.opten.hu
+
+# https://github.com/badmojr/1Hosts/issues/2817
+powerfox.energy
+
 # https://github.com/badmojr/1Hosts/issues/2816
 hosted.weblate.org
 
