@@ -253,7 +253,6 @@ https://raw.githubusercontent.com/realodix/AdBlockID/master/output/adblockid.txt
 https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts
 https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt
 https://github.com/stamparm/maltrail/raw/master/trails/static/suspicious/pua.txt
-https://raw.githubusercontent.com/mkb2091/blockconvert/master/output/domains.txt
 https://github.com/TG-Twilight/AWAvenue-Ads-Rule/raw/build/rule/domain_regex.txt
 https://github.com/DJMo13/JustARandomBlacklist/raw/main/JustARandomBlacklist.txt
 https://github.com/217heidai/adblockfilters/raw/main/rules/adblockdomainlite.txt
