@@ -1,0 +1,7 @@
+
+# https://github.com/badmojr/1Hosts/issues/2825
+beacon.tv
+
+# https://github.com/badmojr/1Hosts/issues/2824
+window-swap.com
+theuselessweb.com
