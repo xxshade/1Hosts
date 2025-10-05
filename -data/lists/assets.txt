@@ -173,6 +173,7 @@ https://github.com/npljy/npljy.github.io/raw/main/blocks/filter.txt
 https://github.com/NoGitHubForYou/yafp/raw/main/subdomains_adshield
 https://github.com/issueser/hosts/raw/main/Non-Essential/strict.txt
 https://github.com/SpitFire-666/ublock-filters/raw/main/filters.txt
+https://github.com/Claire9518/filters/raw/main/rules/adblockdns.txt
 https://github.com/unchartedsky/adguard-kr/raw/master/adguard-kr.txt
 https://github.com/angelics/pfbng/raw/master/ads/ads-domain-list.txt
 https://github.com/monojp/hosts_merge/raw/master/hosts_blacklist.txt
