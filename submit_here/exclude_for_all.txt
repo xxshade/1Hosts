@@ -1,4 +1,11 @@
 
+# https://github.com/badmojr/1Hosts/issues/2857
+airplanes.live
+
+# https://github.com/badmojr/1Hosts/issues/2851
+acs.m.taobao.com
+guide-acs.m.taobao.com
+
 # https://github.com/badmojr/1Hosts/issues/2846
 ves-io-2f19afae-ad92-4f14-886d-28d20a04bef8.ac.vh.ves.io
 www.sling.com
@@ -84,4 +91,5 @@ www.giva.co
 
 # https://github.com/badmojr/1Hosts/issues/2835
 codeforces.org
+
 
