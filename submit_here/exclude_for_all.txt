@@ -1,4 +1,22 @@
 
+# https://github.com/badmojr/1Hosts/issues/2846
+ves-io-2f19afae-ad92-4f14-886d-28d20a04bef8.ac.vh.ves.io
+www.sling.com
+
+# https://github.com/badmojr/1Hosts/issues/2837
+www.pw.live
+pw.live
+static.pw.live
+study-mf.pw.live
+library.pw.live
+pw-learn-to-earn-mfe.pw.live
+pw-sahayak-mfe.pw.live
+sec-prod-mediacdn.pw.live
+pw-batches-mfe.pw.live
+api.penpencil.co
+unleash-edge-prod.penpencil.co
+maintenance.penpencil.co
+
 # https://github.com/badmojr/1Hosts/issues/2856
 sparxmaths.com
 cognitoedu.org
@@ -66,3 +84,4 @@ www.giva.co
 
 # https://github.com/badmojr/1Hosts/issues/2835
 codeforces.org
+
