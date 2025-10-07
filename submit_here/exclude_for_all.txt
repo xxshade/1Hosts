@@ -1,4 +1,11 @@
 
+# https://github.com/badmojr/1Hosts/issues/2859
+fontgenerator.cool
+fastdl.app
+
+# https://github.com/badmojr/1Hosts/issues/2834
+gias.jd.com
+
 # https://github.com/badmojr/1Hosts/issues/2857
 airplanes.live
 
@@ -91,5 +98,6 @@ www.giva.co
 
 # https://github.com/badmojr/1Hosts/issues/2835
 codeforces.org
+
 
 
