@@ -1,4 +1,12 @@
 
+# https://github.com/badmojr/1Hosts/issues/2861
+sso.m3medical.com
+grid.iamkate.com
+
+# https://github.com/badmojr/1Hosts/issues/2860
+www.mappls.com
+explore.mappls.com
+
 # https://github.com/badmojr/1Hosts/issues/2859
 fontgenerator.cool
 fastdl.app
