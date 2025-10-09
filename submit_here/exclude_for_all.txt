@@ -1,0 +1,13 @@
+
+# https://github.com/badmojr/1Hosts/issues/2866
+rechtspraak.nl
+
+# https://github.com/badmojr/1Hosts/issues/2865
+collegedata.com
+
+# https://github.com/badmojr/1Hosts/issues/2863
+octopusenergy.de
+static.octopuscdn.com
+
+# https://github.com/badmojr/1Hosts/issues/2862
+chaospott.de
