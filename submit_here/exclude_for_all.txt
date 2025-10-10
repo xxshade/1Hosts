@@ -1,0 +1,18 @@
+
+# https://github.com/badmojr/1Hosts/issues/2870
+email.mgt.uber.com
+
+# https://github.com/badmojr/1Hosts/issues/2869
+srv308.peekeepoternies.cyou
+srv309.peekeepoternies.cyou
+srv310.peekeepoternies.cyou
+srv313.peekeepoternies.cyou
+www.lookmovie2.to
+
+# https://github.com/badmojr/1Hosts/issues/2868
+buckaroo.io
+www.buckaroo.nl
+
+# https://github.com/badmojr/1Hosts/issues/2864
+together.ai
+fireworks.ai
