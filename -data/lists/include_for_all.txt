@@ -1,4 +1,7 @@
 
+# https://github.com/badmojr/1Hosts/issues/2873
+tracker.chat.bilibili.com
+
 # https://github.com/badmojr/1Hosts/issues/2830
 aaves.co.com
 exobus.co.com
