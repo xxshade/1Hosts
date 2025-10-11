@@ -1,0 +1,14 @@
+
+# https://github.com/badmojr/1Hosts/issues/2875
+api.brightsky.dev
+brightsky.dev
+
+# https://github.com/badmojr/1Hosts/issues/2874
+radioessen.de
+api-prod.nrwlokalradios.com
+
+# https://github.com/badmojr/1Hosts/issues/2872
+click.uber.com
+
+# https://github.com/badmojr/1Hosts/issues/2871
+tecnomat.it
