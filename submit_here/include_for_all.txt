@@ -1,0 +1,3 @@
+
+# https://github.com/badmojr/1Hosts/issues/2873
+tracker.chat.bilibili.com
