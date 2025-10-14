@@ -1,4 +1,26 @@
 
+# https://github.com/badmojr/1Hosts/issues/2882
+super.money
+
+# https://github.com/badmojr/1Hosts/issues/2881
+www.sbiepay.sbi
+
+# https://github.com/badmojr/1Hosts/issues/2880
+phoneblock.net
+
+# https://github.com/badmojr/1Hosts/issues/2879
+cms.medimops.eu
+images2.medimops.eu
+
+# https://github.com/badmojr/1Hosts/issues/2878
+syncler.net
+
+# https://github.com/badmojr/1Hosts/issues/2877
+vidnoz.com
+
+# https://github.com/badmojr/1Hosts/issues/2876
+redact.dev
+
 # https://github.com/badmojr/1Hosts/issues/2875
 api.brightsky.dev
 brightsky.dev
