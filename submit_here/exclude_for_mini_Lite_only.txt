@@ -1,0 +1,3 @@
+
+# https://github.com/badmojr/1Hosts/issues/2892
+supportmetrics.apple.com
