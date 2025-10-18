@@ -1,4 +1,7 @@
 
+# https://github.com/badmojr/1Hosts/issues/2892
+supportmetrics.apple.com
+
 # https://github.com/badmojr/1Hosts/issues/2425
 uptain.de
 app.uptain.de

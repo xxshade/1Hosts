@@ -1,4 +1,25 @@
 
+# https://github.com/badmojr/1Hosts/issues/2902
+vpn.protondownload.com
+
+# https://github.com/badmojr/1Hosts/issues/2900
+gogdb.org
+
+# https://github.com/badmojr/1Hosts/issues/2899
+dc1-cert.ksn.kaspersky-labs.com
+
+# https://github.com/badmojr/1Hosts/issues/2895
+en.fmovies24-to.com
+www.leechinghell.pw
+animepahe.si
+
+# https://github.com/badmojr/1Hosts/issues/2894
+account.jagex.com
+
+# https://github.com/badmojr/1Hosts/issues/2893
+katana.merchsensei.shop
+
+
 # https://github.com/badmojr/1Hosts/issues/2891
 www.letec.be
 
