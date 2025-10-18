@@ -14,7 +14,8 @@ www.leechinghell.pw
 animepahe.si
 
 # https://github.com/badmojr/1Hosts/issues/2894
-https://account.jagex.com
+account.jagex.com
 
 # https://github.com/badmojr/1Hosts/issues/2893
 katana.merchsensei.shop
+
