@@ -1,0 +1,19 @@
+
+# https://github.com/badmojr/1Hosts/issues/2907
+begmedia.com
+
+# https://github.com/badmojr/1Hosts/issues/2906
+nucleovisual.com
+tecnobits.com
+
+# https://github.com/badmojr/1Hosts/issues/2905
+www.drawio.com
+www.processon.io
+www.edraw.ai
+
+# https://github.com/badmojr/1Hosts/issues/2904
+doo.lat
+z6bha.com
+
+# https://github.com/badmojr/1Hosts/issues/2903
+magixz.xtremestream.xyz
