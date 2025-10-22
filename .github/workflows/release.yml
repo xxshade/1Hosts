@@ -7,7 +7,6 @@ on:
       - master
     paths:
      - 'Lite/**'
-     - 'Pro/**'
      - 'Xtra/**'
 
 jobs:
@@ -28,7 +27,7 @@ jobs:
           versions="master latest"
           urls=""
           rm -rf release tmp && mkdir -p release tmp
-          cp -rf Lite Pro Xtra tmp && cd tmp
+          cp -rf Lite Xtra tmp && cd tmp
           while read -r file; do
             clean_file=$(echo "$file" | sed 's:\./::g; s:/:_:g')
             newname="1hosts-$clean_file"
