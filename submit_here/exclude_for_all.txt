@@ -1,0 +1,12 @@
+
+# https://github.com/badmojr/1Hosts/issues/2911
+global.frcapi.com
+
+# https://github.com/badmojr/1Hosts/issues/2910
+www.nirandfar.com
+
+# https://github.com/badmojr/1Hosts/issues/2909
+www.aqi.in
+
+# https://github.com/badmojr/1Hosts/issues/2908
+vidsrcme.ru
