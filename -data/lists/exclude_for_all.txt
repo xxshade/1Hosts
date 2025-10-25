@@ -1,4 +1,48 @@
 
+# https://github.com/badmojr/1Hosts/issues/2925
+gea.at
+gea.com
+geaag.com
+
+# https://github.com/badmojr/1Hosts/issues/2923
+online-python.com
+pythononline.io
+python-fiddle.com
+
+# https://github.com/badmojr/1Hosts/issues/2922
+traffictech.com
+
+# https://github.com/badmojr/1Hosts/issues/2921
+api.pulsar-edit.dev
+web.pulsar-edit.dev
+packages.pulsar-edit.dev
+
+# https://github.com/badmojr/1Hosts/issues/2919
+ess.com
+
+# https://github.com/badmojr/1Hosts/issues/2918
+neovim.io
+
+# https://github.com/badmojr/1Hosts/issues/2917
+vidsrc-embed.ru
+
+# https://github.com/badmojr/1Hosts/issues/2916
+internal-api.monzo.com
+
+# https://github.com/badmojr/1Hosts/issues/2915
+taboovideos.tv
+krx18.com
+strmup.cc
+www.fsiblog5.com
+www.desitales2.com
+www.mydesi2.net
+
+# https://github.com/badmojr/1Hosts/issues/2914
+flixtor.li
+
+# https://github.com/badmojr/1Hosts/issues/2913
+whereismytrain.in
+
 # https://github.com/badmojr/1Hosts/issues/2911
 global.frcapi.com
 
