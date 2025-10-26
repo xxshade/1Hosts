@@ -1,4 +1,36 @@
 
+# https://github.com/badmojr/1Hosts/issues/2933
+neon.com
+
+# https://github.com/badmojr/1Hosts/issues/2932
+feddit.dk
+
+# https://github.com/badmojr/1Hosts/issues/2931
+decathlon.at
+decathlon.bg
+decathlon.ch
+decathlon.cl
+decathlon.cr
+decathlon.ee
+decathlon.ie
+decathlon.io
+decathlon.lt
+decathlon.mu
+decathlon.my
+decathlon.ph
+decathlon.qa
+decathlon.rs
+decathlon.si
+decathlon.sk
+decathlon.tw
+decathlon.vn
+
+# https://github.com/badmojr/1Hosts/issues/2930
+dali.ph
+
+# https://github.com/badmojr/1Hosts/issues/2928
+gaisanomalls.com
+
 # https://github.com/badmojr/1Hosts/issues/2925
 gea.at
 gea.com
