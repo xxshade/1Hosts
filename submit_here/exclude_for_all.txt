@@ -1,0 +1,72 @@
+
+# https://github.com/badmojr/1Hosts/issues/2947
+chrome-mask-remote-storage.0b101010.services
+
+# https://github.com/badmojr/1Hosts/issues/2945
+peremoga.club
+chudesa.site
+
+# https://github.com/badmojr/1Hosts/issues/2944
+ico3c.com
+
+# https://github.com/badmojr/1Hosts/issues/2943
+news-cdn.bindg.com
+news.bloomberglaw.com
+
+# https://github.com/badmojr/1Hosts/issues/2942
+dailysecurityreview.com
+
+# https://github.com/badmojr/1Hosts/issues/2941
+media.redgifs.com
+
+# https://github.com/badmojr/1Hosts/issues/2940
+console.neon.tech
+api.multiviewer.app
+slowly.dev
+
+# https://github.com/badmojr/1Hosts/issues/2939
+bazzite.gg
+
+# https://github.com/badmojr/1Hosts/issues/2938
+creativecommons.tankerkoenig.de
+tankerkoenig.de
+
+# https://github.com/badmojr/1Hosts/issues/2937
+exiftool.org
+
+# https://github.com/badmojr/1Hosts/issues/2936
+staatsgalerie.de
+
+# https://github.com/badmojr/1Hosts/issues/2935
+cdn.bauhaus
+media.cdn.bauhaus
+static.cdn.bauhaus
+bauhaus.info
+
+# https://github.com/badmojr/1Hosts/issues/2934
+gojysk.com
+jysk.at
+jysk.az
+jysk.be
+jysk.ch
+jysk.de
+jysk.dk
+jysk.es
+jysk.gr
+jysk.hr
+jysk.hu
+jysk.ie
+jysk.it
+jysk.lv
+jysk.nl
+jysk.no
+jysk.pl
+jysk.pt
+jysk.ro
+jysk.rs
+jysk.sk
+mapp.jysk.dk
+mapp.jysk.nl
+
+# https://github.com/badmojr/1Hosts/issues/2929
+customs.gov.ph
