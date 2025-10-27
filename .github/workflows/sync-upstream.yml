@@ -33,7 +33,7 @@ jobs:
           target_sync_branch: master  # Your fork's branch to sync (make this match the 'ref' above)
           target_repo_token: ${{ secrets.GITHUB_TOKEN }}  # Built-in secret for pushing to your fork
           upstream_sync_branch: master  # Upstream's branch to pull from (upstream default is master)
-          upstream_sync_repo: bongochong/CombinedPrivacyBlockLists  # Upstream repo path (without https://github.com/)
+          upstream_sync_repo: badmojr/1Hosts  # Upstream repo path (without https://github.com/)
           # If upstream is private, add: upstream_repo_access_token: ${{ secrets.UPSTREAM_REPO_SECRET }}
           # And create a secret UPSTREAM_REPO_SECRET in your fork's settings with a GitHub PAT (personal access token) for read access to upstream
 
